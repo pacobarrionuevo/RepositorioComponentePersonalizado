@@ -1,1 +1,18 @@
 # RepositorioComponentePersonalizado
+
+colorBordeCorrecto
+colorBordeIncorrecto
+colorBordePorDefecto
+colorMensajeCorrecto
+colorMensajeIncorrecto
+colorTextArriba 
+colorTextoHint
+
+fuenteMensajeError
+fuenteTextHint
+fuenteTextoArriba
+
+textHint
+textMensajeCorrecto
+textMensajeIncorrecto
+textoArriba
